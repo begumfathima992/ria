@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8f4"/><stop offset="1" stop-color="#eee4d8"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c08967"/><stop offset="1" stop-color="#161616"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-opacity=".22"/></filter>
+</defs>
+<rect width="520" height="520" rx="36" fill="url(#bg)"/>
+<circle cx="80" cy="85" r="92" fill="#161616" opacity=".18"/><circle cx="447" cy="430" r="120" fill="#c08967" opacity=".08"/>
+<ellipse cx="258" cy="377" rx="126" ry="27" fill="#301d1d" opacity=".12"/>
+<g filter="url(#s)"><rect x="205" y="125" width="108" height="235" rx="24" fill="url(#g)"/><rect x="230" y="82" width="58" height="54" rx="7" fill="#222"/><path d="M248 82V62h80l-8 27h-40v11" fill="#222"/><rect x="222" y="193" width="74" height="92" rx="6" fill="#fff8ef" opacity=".95"/></g>
+<text x="256" y="228" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#2b2020" letter-spacing="2">H&amp;H</text>
+<text x="256" y="252" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#5f4c4c" letter-spacing="2">HEAT PROTECT</text>
+<text x="256" y="272" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#7a6868">200 ml</text>
+<path d="M85 413c65-44 141-43 205-8 54 30 94 20 142-10" stroke="#c08967" stroke-width="2" opacity=".35" fill="none"/>
+</svg>

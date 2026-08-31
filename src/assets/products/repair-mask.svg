@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8f4"/><stop offset="1" stop-color="#eee4d8"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d8c2ad"/><stop offset="1" stop-color="#6e1727"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-opacity=".22"/></filter>
+</defs>
+<rect width="520" height="520" rx="36" fill="url(#bg)"/>
+<circle cx="80" cy="85" r="92" fill="#6e1727" opacity=".18"/><circle cx="447" cy="430" r="120" fill="#d8c2ad" opacity=".08"/>
+<ellipse cx="258" cy="377" rx="126" ry="27" fill="#301d1d" opacity=".12"/>
+<g filter="url(#s)"><rect x="163" y="172" width="186" height="155" rx="38" fill="url(#g)"/><rect x="151" y="139" width="210" height="52" rx="14" fill="#1f1f1f"/><rect x="187" y="211" width="138" height="82" rx="8" fill="#fbf4ec" opacity=".95"/></g>
+<text x="256" y="228" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#2b2020" letter-spacing="2">H&amp;H</text>
+<text x="256" y="252" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#5f4c4c" letter-spacing="2">REPAIR MASK</text>
+<text x="256" y="272" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#7a6868">250 ml</text>
+<path d="M85 413c65-44 141-43 205-8 54 30 94 20 142-10" stroke="#d8c2ad" stroke-width="2" opacity=".35" fill="none"/>
+</svg>

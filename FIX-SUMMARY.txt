@@ -1,0 +1,36 @@
+H&H HAIR & COSMETICS — PREMIUM ECOMMERCE V8 API INTEGRATED
+
+Customer API integration:
+- Axios service layer under src/services
+- JWT access token + refresh token rotation through Axios interceptors
+- Register, login, logout, forgot/reset password
+- Live customer profile and password change
+- Live saved address CRUD/default selection
+- Live categories, products, product detail, variants, reviews, banners and public settings
+- Server-backed cart for signed-in users + guest cart sync on login
+- Server-backed wishlist for signed-in users + guest wishlist sync on login
+- Backend cart quote, delivery charges and coupon validation
+- Cash on Delivery checkout only
+- Live order history/detail, cancellation, return request and public tracking
+- Review create/update/delete flow
+- Contact and newsletter subscribe/unsubscribe
+- Formik + Yup on all customer forms
+- No admin API calls in the storefront
+
+Quality checks performed:
+- 54 source files checked: local imports resolve
+- Every JSX file has exactly one React import
+- Customer API service route checker: PASS
+- No /admin endpoint references: PASS
+- No direct fetch() calls: PASS (Axios services only)
+- JSX/JavaScript syntax parse check via TypeScript: PASS
+
+Environment:
+VITE_API_BASE_URL=http://localhost:4000/api/v1
+VITE_API_TIMEOUT=20000
+
+Backend CORS should allow:
+FRONTEND_URL=http://localhost:5173
+
+Payment:
+Only Cash on Delivery (COD) is submitted to the backend.

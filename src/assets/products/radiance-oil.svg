@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8f4"/><stop offset="1" stop-color="#eee4d8"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6e1727"/><stop offset="1" stop-color="#d9b98c"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-opacity=".22"/></filter>
+</defs>
+<rect width="520" height="520" rx="36" fill="url(#bg)"/>
+<circle cx="80" cy="85" r="92" fill="#d9b98c" opacity=".18"/><circle cx="447" cy="430" r="120" fill="#6e1727" opacity=".08"/>
+<ellipse cx="258" cy="377" rx="126" ry="27" fill="#301d1d" opacity=".12"/>
+<g filter="url(#s)"><rect x="206" y="125" width="100" height="235" rx="26" fill="url(#g)"/><rect x="224" y="82" width="64" height="58" rx="10" fill="#171717"/><rect x="234" y="58" width="44" height="32" rx="10" fill="#2d2d2d"/><rect x="225" y="191" width="62" height="86" rx="5" fill="#f8f1e9" opacity=".94"/></g>
+<text x="256" y="228" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#2b2020" letter-spacing="2">H&amp;H</text>
+<text x="256" y="252" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#5f4c4c" letter-spacing="2">RADIANCE OIL</text>
+<text x="256" y="272" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#7a6868">50 ml</text>
+<path d="M85 413c65-44 141-43 205-8 54 30 94 20 142-10" stroke="#6e1727" stroke-width="2" opacity=".35" fill="none"/>
+</svg>
