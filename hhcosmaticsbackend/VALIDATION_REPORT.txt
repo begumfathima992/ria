@@ -1,0 +1,15 @@
+H&H Hair & Cosmetics Backend v1 - Validation Report
+Generated: 2026-08-10
+
+- Architecture: Node.js + Express.js + MySQL + Sequelize ORM
+- Roles: USER, SUPERADMIN
+- Payment method: COD only
+- API route shapes: 100 including health
+- Postman example requests: 110
+- JS/MJS files syntax-checked with Node.js: 44
+- Local relative-import check: PASS
+- Local named-export/import check: PASS
+- SQL supplied: complete schema+dummy import and dummy-data-only import
+- Demo data: superadmin, customer, categories, subcategories, 14 products, variants, images, coupons, banner, settings, delivered order, review, support message, subscriber
+
+Note: npm dependency installation could not be executed in the sandbox because its internal npm registry returned 404 for public packages. The project intentionally excludes node_modules. Run npm install in your normal development environment before starting the API.
